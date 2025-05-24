@@ -6,4 +6,5 @@ https://coursera.org/verify/professional-cert/KPLGIF7U2TJJ
 * Python 🐍
 * Linux
 * SQL
+* Network Security 
 * SIEM Tools (Splunk)
